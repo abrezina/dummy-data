@@ -17,7 +17,7 @@ The country is one of DE, US and JP.
 ### example
 
 ```js
-var personGenerator = require('dummy-data').personGenerator;
+var personGenerator = require('@abrezina/dummy-data').personGenerator;
 
 var randomPerson = personGenerator.generate();
 
