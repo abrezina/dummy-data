@@ -1,0 +1,27 @@
+{
+  "name": "dummy-data",
+  "version": "1.0.0",
+  "description": "simple node.js library for generating dummy data for tests or to use fake names for anomym data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrezina/dummy-data.git"
+  },
+  "keywords": [
+    "dummy",
+    "data",
+    "fake",
+    "person",
+    "generator",
+    "names"
+  ],
+  "author": "Astrid Brezina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrezina/dummy-data/issues"
+  },
+  "homepage": "https://github.com/abrezina/dummy-data#readme"
+}
